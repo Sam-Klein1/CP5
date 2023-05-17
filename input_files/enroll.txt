@@ -1,0 +1,18 @@
+newlist CS_310
+newlist CS_301
+newlist CS_375
+add B00112233 CS_310 10
+add B00445566 CS_310 20
+add B00556677 CS_310 20
+add B00112233 CS_301 30
+add B00556677 CS_301 20
+add B00656565 CS_301 10
+promote B00112233 CS_310 20
+promote B00556677 CS_301 15
+enroll CS_310
+enroll CS_301
+enroll CS_310
+enroll CS_310
+enroll CS_301
+enroll CS_301
+
